@@ -8,7 +8,7 @@ This Customer Churn Prediction Machine Learning Project is perfect for data scie
 
 We’ll cover everything — from data preprocessing, feature engineering, and EDA (Exploratory Data Analysis) to model training, evaluation, and visualization — all explained step-by-step using Python.
 
-🧠 What You’ll Learn:
+What You’ll Learn:
 
 ✅ How to preprocess and clean structured data
 ✅ Perform in-depth Exploratory Data Analysis (EDA) to find patterns
@@ -18,15 +18,12 @@ We’ll cover everything — from data preprocessing, feature engineering, and E
 ✅ Visualize churn trends and customer behavior using Seaborn & Matplotlib
 ✅ Understand how businesses can use churn prediction for customer retention strategies
 
-🧩 Tools & Libraries Used:
+ Tools & Libraries Used:
 
 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | XGBoost
 
-💼 Project Type:
+ Project Type:
 
 Machine Learning | Data Science | Business Analytics | Predictive Modeling | Customer Retention | Churn Analysis | Python Project
 
 
-👍 Like | 💬 Comment | 🔔 Subscribe for more AI, ML, and Data Science Projects: @SouvikChai
-
-📢 Share this project with your friends who are learning Machine Learning, Data Analytics, and Python!
